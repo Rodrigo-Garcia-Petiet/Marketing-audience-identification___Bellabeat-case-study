@@ -1,0 +1,3 @@
+Some tables of the database are too big to upload them here.
+Feel free to download them from this link.
+https://www.kaggle.com/datasets/arashnic/fitbit 
